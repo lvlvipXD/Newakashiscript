@@ -80,11 +80,11 @@ const access = async (msg, checkType, time) => {
     
     if (conn && messages[checkType]) {
         await conn.msgUrl(msg.chat, messages[checkType], {
-            img: "https://i.pinimg.com/originals/02/c3/51/02c351dfd4eb72a62f225ce964dc510d.jpg",
+            img: "https://wallpapercave.com/wp/wp2239488.png",
             title: "𝐀𝐥𝐞𝐫𝐭𝐬 | 𝐖𝐚𝐫𝐧𝐢𝐧𝐠𝐬",
             body: "𝐵𝑜𝑡 𝑎𝑙𝑒𝑟𝑡𝑠: 𝑅𝑒𝑎𝑑 𝑡𝒉𝑒 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑚𝑜𝑟𝑒",
             newsletter: {
-                name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+                name: 'AKASHI 🕷️',
                 jid: '120363225356834044@newsletter'
             },
             big: false
