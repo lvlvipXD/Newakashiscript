@@ -35,7 +35,7 @@ return conn.sendMessage(m.chat, {
 }, { quoted: m });
 };
 
-handler.usage = ["بيحبني", "بيكرهني", "بيكراش"];
+handler.owner = ["بيحبني", "بيكرهني", "بيكراش"];
 handler.category = "group";
 handler.command = ["بيحبني", "بيكرهني", "بيكراش"];
 
