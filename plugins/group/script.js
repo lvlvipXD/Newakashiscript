@@ -33,7 +33,7 @@ Video: _*https://youtu.be/hA5aCpvesJE?si=pHAEsbDFTVXe2_sq*_
   contextInfo: context(m.sender, img)
 }, { quoted: reply_status });
 }
-handler.usage = ["سكريبت"];
+handler.owner = ["سكريبت"];
 handler.category = "group";
 handler.command = ["سكريبت", "سورس", "sc"];
 
