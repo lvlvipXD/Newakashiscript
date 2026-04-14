@@ -38,7 +38,7 @@ return conn.sendMessage(m.chat, {
     mentions: topUsers 
 });
 };
-handler.usage =  ["توب"];
+handler.owner =  ["توب"];
 handler.category = "group";
 handler.command = ["توب"];
 
