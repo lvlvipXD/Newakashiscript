@@ -26,7 +26,7 @@ let handler = async (m, { conn }) => {
         m.reply(e.message);
     }
 }
-handler.usage = ["ابكي @منشن"];
+handler.owner = ["ابكي @منشن"];
 handler.category = "gif";
 handler.command = ["ابكي"];
 
