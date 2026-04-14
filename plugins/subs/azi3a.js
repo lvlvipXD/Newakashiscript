@@ -1,4 +1,4 @@
-const run = async (m, { conn, bot }) => {
+/*const run = async (m, { conn, bot }) => {
   const sub = global.subBots;
   if (!sub) return m.reply("❌ نـظـام الـبـوتـات الـفـرعـيـه غير متاح");
   
