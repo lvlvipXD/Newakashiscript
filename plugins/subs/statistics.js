@@ -1,9 +1,9 @@
-const run = async (m, { conn, bot }) => {
-  const sub = global.subBots;
-  if (!sub) return m.reply("❌ نـظـام الـبـوتـات الـفـرعـيـه غير متاح");
+//const run = async (m, { conn, bot }) => {
+  //const sub = global.subBots;
+ // if (!sub) return m.reply("❌ نـظـام الـبـوتـات الـفـرعـيـه غير متاح");
 
-  const stats = sub.stats();
-  const uptime = process.uptime();
+ // const stats = sub.stats();
+ /* const uptime = process.uptime();
   const days = Math.floor(uptime / 86400);
   const hours = Math.floor((uptime % 86400) / 3600);
   const minutes = Math.floor((uptime % 3600) / 60);
