@@ -60,7 +60,7 @@ async function handler(m, { conn, bot }) {
     }, { quoted: reply_status });
 }
 
-handler.usage = ["بروفايل"];
+handler.owner = ["بروفايل"];
 handler.category = "bank";
 handler.command = ["بروفايل", "profile", "my"];
 
