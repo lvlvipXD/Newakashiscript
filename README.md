@@ -1,7 +1,7 @@
 # ✨ CREATE BY DAVINCI
 
 <div align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/25777.jpg" alt="IMAGE" width="500"/>
+  <img src="https://wallpapercave.com/uwp/uwp5010278.png" alt="IMAGE" width="500"/>
   
   [![GitHub](https://img.shields.io/badge/GitHub-VENi-blue?style=for-the-badge&logo=github)](https://github.com/deveni0)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201554582851)
