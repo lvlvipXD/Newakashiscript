@@ -35,7 +35,7 @@ return conn.sendMessage(m.chat, {
 }, { quoted: m });
 };
 
-handler.usage =  ["زواج"];
+handler.owner =  ["زواج"];
 handler.category = "group";
 handler.command = ["زواج"];
 
