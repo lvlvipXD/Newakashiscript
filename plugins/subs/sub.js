@@ -1,11 +1,11 @@
-const run = async (m, { args, conn, bot }) => {
+/*const run = async (m, { args, conn, bot }) => {
 /*
 if (subBots.list().length >= 30) {
   return m.reply("خلاص العدد اكتمل");
 } // عدد البوتات الي مسموح ب ربطهم فقط
 
 */
-  try {
+ /* try {
     const num = m.sender.split("@")[0].replace(/[+\s-]/g, '');
 
     if (!/^\d+$/.test(num)) return m.reply("⚠️ رقم الهاتف غير صالح");
