@@ -4,7 +4,7 @@ import UltraDB from "./system/UltraDB.js";
 import sub from './sub.js';
 
 /* =========== Client ========== */
-uconst client = new Client({
+const client = new Client({
   phoneNumber: '212660168326', //DAVINCI's tool 
   prefix: [".", "/", "!"],
   fromMe: false,

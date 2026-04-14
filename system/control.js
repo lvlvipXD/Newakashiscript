@@ -27,16 +27,16 @@ const group = async (ctx, event, eventType) => {
         if (global.db.groups[event.chat].noWelcome === true) return 9999;
 
         const img = ["remove", "add"].includes(eventType) 
-            ? (event.userUrl || "https://files.catbox.moe/hm9iq4.jpg") 
-            : "https://files.catbox.moe/hm9iq4.jpg";
+            ? (event.userUrl || "https://wallpapercave.com/wp/wp2239488.png") 
+            : "https://wallpapercave.com/wp/wp2239488.png";
 
         await ctx.sock.msgUrl(event.chat, txt, {
             img,
             title: ctx.config?.info.nameBot || "WhatsApp Bot",
-            body: "𝐴 𝑠𝑖𝑚𝑝𝑙𝑒 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 𝑏𝑜𝑡 𝑓𝑜𝑟 𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑟𝑠, 𝑏𝑦 𝑉𝐸𝑁𝑂𝑀",
+            body: "AKASHI",
             mentions: author ? [author, ...participants] : participants,
             newsletter: {
-                name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+                name: 'AKASHI 🕷️',
                 jid: '120363225356834044@newsletter'
             },
             big: ["remove", "add"].includes(eventType)

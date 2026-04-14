@@ -19,8 +19,8 @@ if (!fs.existsSync(tmp)) {
 
 const createSticker = async (buffer, options = {}) => {
     const sticker = new Sticker(buffer, {
-        pack: options.pack || 'ڤـ ـ VA ـ ـا',
-        author: options.author || 'VA',
+        pack: options.pack || 'ڤـ ـ BY AKASHI ـ ـا',
+        author: options.author || 'YT',
         type: "full",
         quality: options.mime === "image/jpg" ? 100 : 10
     });
