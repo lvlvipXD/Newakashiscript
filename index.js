@@ -32,17 +32,17 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ 𝙋𝙊𝙉𝙈𝙄 🎪 〈", 
-  nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
+  nameBot: "♡ AKASHI 🎪 〈", 
+  nameChannel: "BY AKASHI🕷️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
-    repo: "https://github.com/deveni0/Pomni-AI",
+    repo: "https://github.com",
     api: "https://emam-api.web.id",
     channel: "https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v"
   },
   copyright: { 
-    pack: 'ڤـ ـ VA ـ ـا', 
-    author: 'VA'
+    pack: 'ڤـ ـ YT ـ ـا', 
+    author: 'YT'
   },
   images: [
     "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",
