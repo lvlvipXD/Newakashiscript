@@ -113,7 +113,7 @@ menu.before = async (m, { conn, bot }) => {
 ${cmdsList}
 
 ╭─┈─┈─┈─⟞${cat[3]}⟝─┈─┈─┈─╮
-┃ *⌯︙𝐕𝐈𝐈7 ~ ${bot.config.info.nameBot}*
+┃ *⌯︙AKA ~ ${bot.config.info.nameBot}*
 ╰─┈─┈─┈─⟞${cat[3]}⟝─┈─┈─┈─╯
 > *رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا*`.trim(),
         contextInfo: context(m.sender, getImg(bot))
