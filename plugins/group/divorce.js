@@ -33,7 +33,7 @@ return conn.sendMessage(m.chat, {
 }, { quoted: m });
 };
 
-handler.usage = ["طلاق"];
+handler.owner = ["طلاق"];
 handler.category = "group";
 handler.command = ["طلاق"];
 
