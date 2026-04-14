@@ -1,4 +1,4 @@
-# ✨ Pomni AI- WhatsApp Bot
+# ✨ CREATE BY DAVINCI
 
 <div align="center">
   <img src="https://4kwallpapers.com/images/walls/thumbs_3t/25777.jpg" alt="IMAGE" width="500"/>
