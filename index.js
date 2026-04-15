@@ -38,16 +38,16 @@ config.info = {
   urls: {
     repo: "https://github.com",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v"
+    channel: "........"
   },
   copyright: { 
     pack: 'ڤـ ـ YT ـ ـا', 
     author: 'YT'
   },
   images: [
-    "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",
-    "https://i.pinimg.com/originals/e2/21/20/e221203f319df949ee65585a657501a2.jpg",
-    "https://i.pinimg.com/originals/bb/77/0f/bb770fad66a634a6b3bf93e9c00bf4e5.jpg"
+    "https://i.pinimg.com/736x/ca/89/4d/ca894d81dec613be9c59ec6ed9817826.jpg",
+    "https://i.pinimg.com/736x/ca/89/4d/ca894d81dec613be9c59ec6ed9817826.jpg",
+    "https://i.pinimg.com/736x/ca/89/4d/ca894d81dec613be9c59ec6ed9817826.jpg"
   ]
 };
 
