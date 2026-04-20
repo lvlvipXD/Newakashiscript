@@ -37,10 +37,7 @@ const context = (jid, img) => ({
     mentionedJid: [jid],
     isForwarded: true,
     forwardingScore: 1,
-    forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363225356834044@newsletter',
-        newsletterName: 'BY AKASHI 🕷️',
-        serverMessageId: 0
+
     },
     externalAdReply: {
         title: "BY AKASHI 🎪 |",
